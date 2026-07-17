@@ -9,7 +9,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Ready-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-**作者：张大鹏** · **助教：林姗姗**
+**作者：林姗姗**
 
 [产品预览](#-产品预览) · [功能特性](#-功能特性) · [快速开始](#-快速开始) · [从源码学习](#-从源码学习)
 
